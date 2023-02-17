@@ -1,4 +1,4 @@
-### Expense tracker
+#### Expense tracker
 
 ## Description
 This project was about take a vanilla JS expense tracker app already made and turning it into a React app. 
